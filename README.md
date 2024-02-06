@@ -1,6 +1,6 @@
 # ESRI ArcGIS Dashboard - Zagreb Urban Development
 
-![Dashboard Screenshot](https://github.com/Tomislav14/ArcGIS-Dashboards/blob/main/esri%20dashbaords.jpg)
+![Dashboard Screenshot](https://github.com/Tomislav14/ArcGIS-Dashboards/blob/main/Dashboard%20picture.jpg)
 
 This dashboard was created using the ESRI Dashboards application and publicly available data from GEOHub Zagreb. The data obtained as a shapefile was uploaded to the ESRI Dashboards platform from ArcGIS Online. 
 
